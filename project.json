@@ -1,0 +1,11 @@
+{
+  "title": "Executive Analytics Capstone",
+  "domain": "executive",
+  "primary_dimension": "business_unit",
+  "kpis": [
+    "Revenue Growth",
+    "Contribution Margin",
+    "Customer Retention",
+    "Forecast Accuracy"
+  ]
+}
